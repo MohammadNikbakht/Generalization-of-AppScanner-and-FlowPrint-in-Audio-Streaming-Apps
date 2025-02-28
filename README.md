@@ -3,7 +3,7 @@
 
 ## Introduction
 AppScanner and Flowprint are two effective methods for fingerprinting mobile apps from encrypted network traffic. We evaluated the generalization of these two methods in identifying audio streaming apps. To accomplish this, we implemented AppScanner and Flowprint in various network environments. The evaluation process involved validating the methods and conducting three separate experiments. In the validation phase, we used a comprehensive and exclusive dataset specifically curated for identifying audio streaming apps within network traffic. Next, in the experiments phase, we evaluated the performance of these methods with datasets that had completely different characteristics from the training data.
-More information will be available soon.
+More information: https://doi.org/10.1109/ICCKE65377.2024.10874577
 
 
 
